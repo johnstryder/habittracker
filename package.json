@@ -12,10 +12,12 @@
   "dependencies": {
     "date-fns": "^3.3.1",
     "lucide-react": "^0.344.0",
+    "pocketbase": "^0.21.5",
     "pocketbase-typegen": "^1.2.1",
     "react": "^18.3.1",
     "react-calendar": "^4.8.0",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
