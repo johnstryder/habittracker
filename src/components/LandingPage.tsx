@@ -105,7 +105,7 @@ export default function LandingPage() {
                 <div className="relative block w-full bg-white rounded-lg overflow-hidden">
                   <img
                     className="w-full"
-                    src="/api/placeholder/800/600"
+                    src="https://unsplash.com/photos/a-man-standing-in-a-dark-room-with-his-hands-in-his-pockets-gh5yr7EwchI"
                     alt="App screenshot"
                   />
                 </div>
